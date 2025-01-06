@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="AccentColorBlue">#003049</color>
+    <color name="AccentColorMaroon">#780000</color>
+    <color name="AccentColorRed">#c1121f</color>
+    <color name="AccentColorCream">#FEF8EC</color>
+    <color name="AccentColorLightBlue">#669bbc</color>
+    <color name="mainMenuBackgroundColour">#FF0000FF</color>
+    <color name="AccentColorRedTransparent">#1Ac1121f</color>
+</resources>
